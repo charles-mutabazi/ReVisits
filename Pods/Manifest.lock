@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (3.2.1)
+  - AlamofireImage (2.3.1):
+    - Alamofire (~> 3.2)
+  - DeviceKit (0.3.1)
+  - FBAnnotationClusteringSwift (1.0.0)
+  - HanekeSwift (0.10.1)
+  - ReachabilitySwift (2.3.3)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - AlamofireImage (~> 2.0)
+  - DeviceKit (~> 0.3.1)
+  - FBAnnotationClusteringSwift
+  - HanekeSwift
+  - ReachabilitySwift
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 2a5b70f06001316d4fb54501edc70b4084705da0
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: f11d8624a05f5d39e0c99309b3e600a3ba64298a
+  AlamofireImage: e52336282757bbe1644f075d6cb85f19c891f939
+  DeviceKit: eb8909d941cee4dc7f6cc5b1b40a41da523a197d
+  FBAnnotationClusteringSwift: b06550cf23e0508da6f501af0aa7f7ba894baed9
+  HanekeSwift: 08e47d3d0f2899ec58e5d257beba0de619aca9e8
+  ReachabilitySwift: e0f6b6f280effb47731acfaaa2d5ffe223703793
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 7c9b9050ea9ea20a652ca07a918dbb8410a611c2
+
+COCOAPODS: 1.0.0.beta.6

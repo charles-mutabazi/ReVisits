@@ -1,0 +1,6 @@
+framework module Pods_ReVisits {
+  umbrella header "Pods-ReVisits-umbrella.h"
+
+  export *
+  module * { export * }
+}
